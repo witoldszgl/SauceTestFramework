@@ -1,0 +1,19 @@
+## .NET build artifacts
+bin/
+obj/
+publish/
+
+## IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+## Test results
+TestResults/
+*.trx
+
+## OS
+Thumbs.db
+.DS_Store
